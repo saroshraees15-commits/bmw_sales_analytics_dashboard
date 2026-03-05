@@ -72,6 +72,9 @@ Region-wise Revenue (Bar Chart)
 
 High vs Low Sales Distribution (Pie/Bar)  
 
+<img width="1896" height="921" alt="Executive Overview" src="https://github.com/user-attachments/assets/d1a668eb-c9cf-4d4e-bebb-a908619f1e04" />
+
+
   ##  Page 2: Product Performance Analysis 
 
 Model-wise Sales Volume 
@@ -82,6 +85,9 @@ Transmission vs Revenue
 
 Engine Size Distribution  
 
+<img width="1890" height="912" alt="Product Performance Analysis" src="https://github.com/user-attachments/assets/aa1e5e6d-d508-4bd2-946d-313c9f71d974" />
+
+
    ## Page 3: Sales Drivers Analysis 
 
 Mileage vs Sales Volume (Scatter Plot) 
@@ -89,3 +95,13 @@ Mileage vs Sales Volume (Scatter Plot)
 Price vs Sales Volume 
 
 Region & Fuel Type Filters 
+
+<img width="1885" height="915" alt="Sales Drivers Analysis" src="https://github.com/user-attachments/assets/9840eff3-0d13-4ffa-ad6c-5898997a2233" />
+
+
+
+
+
+
+
+
